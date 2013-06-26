@@ -1,0 +1,25 @@
+Please outline each step a user should take to publish your action. Include any information we need to complete these steps (e.g. staging url, username, password). Here's an example:
+
+1. Go to www.clothingapp.com and sign up with your Facebook account
+2. Click on any outfit
+3. Click the Comment button
+4. Enter your comment
+5. Click the Add Comment button. Your comment will post to your ClothingApp account and Facebook timeline.
+
+If you are submitting actions for a native mobile app or a game please upload screenshots with your submission. When submitting app screenshots, please show us the entire in-app user flow including optional action properties and the action published back to timeline." name="trigger_steps" placeholder="Please outline each step a user should take to publish your action. Include any information we need to complete these steps (e.g. staging url, username, password). Here's an example:
+
+1. Go to www.clothingapp.com and sign up with your Facebook account
+2. Click on any outfit
+3. Click the Comment button
+4. Enter your comment
+5. Click the Add Comment button. Your comment will post to your ClothingApp account and Facebook timeline.
+
+If you are submitting actions for a native mobile app or a game please upload screenshots with your submission. When submitting app screenshots, please show us the entire in-app user flow including optional action properties and the action published back to timeline." onkeydown="window.Bootloader &amp;&amp; Bootloader.loadComponents([&quot;control-textarea&quot;], function() { TextAreaControl.getInstance(this) }.bind(this)); " tabindex="0" style="">Please outline each step a user should take to publish your action. Include any information we need to complete these steps (e.g. staging url, username, password). Here's an example:
+
+1. Go to www.clothingapp.com and sign up with your Facebook account
+2. Click on any outfit
+3. Click the Comment button
+4. Enter your comment
+5. Click the Add Comment button. Your comment will post to your ClothingApp account and Facebook timeline.
+
+If you are submitting actions for a native mobile app or a game please upload screenshots with your submission. When submitting app screenshots, please show us the entire in-app user flow including optional action properties and the action published back to timeline.
